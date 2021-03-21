@@ -1,3 +1,5 @@
+@media (max-width: 800px){
+
 /* fuentes personalizadas*/
 @font-face {
   font-family: "font_tex_main";
@@ -122,4 +124,8 @@ background-color: #171717;
 .brandig img, .layout img, .modeling img, .publicity img, .packaging img {
   width: 195px;
   height: auto;
+}
+
+
+
 }
