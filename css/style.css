@@ -89,12 +89,12 @@
       margin: 0 0 0 0 ;
       padding: 0 0 0 0;
       background-color: #171717;
-      width: auto;
+      width: 100%;
       height: 635px;
       align-items: center;
       }
   #main_head {
-    width: 1000px;
+    width: 100%;
     height: 320px;
     position: center;
     right: 6%;
@@ -233,23 +233,18 @@
    padding: 0 auto;
  }
  body {
-   background-color: red;
    width: auto;
    height: auto;
  }
  header {
   background: #171717;
-	color: white;
-	height: 440px;
+	height: 700px;
 	width: 100%;
-	left: 0;
-	top: 0;
-  }
+	}
 
   #navigation_bar {
     width: 100%;
     height: 110px;
-    background-color: blue;
   }
 
   .icon_bar .icon_bar2{
@@ -264,7 +259,6 @@
 
   .option_bar {
     position: sticky;
-    background-color: grey;
     margin: -80px 10px 10px 30%;
     text-align: right;
   }
@@ -281,19 +275,18 @@
     text-decoration: none;
   }
   .option_bar .contacto, .servicios {
-    margin: 15px;
+    margin: 10px;
   }
 
   #main_head {
     width: 100%;
     height: 225px;
-    background-color: green;
   }
   .name_designer{
-    background-color: red;
     width: 80%;
-    height: 110px;
+    height: 140px;
     text-align: center;
+    margin: 100px auto;
   }
 
   .name_designer a{
@@ -304,11 +297,10 @@
   }
 
   .freelance_designer{
-    background-color: blue;
     width: 80%;
     height: 35px;
     text-align: center;
-    margin: 10px auto;
+    margin: 280px auto;
   }
   .freelance_designer a{
     color: #fff;
@@ -317,49 +309,35 @@
     text-decoration: none;
   }
 
-  .job_designer {
-    text-align: center;
-    width: 98%;
-    height: 50px;
-    background-color: red;
-    margin: 15px auto;
-  }
   .job_designer a{
-    color: #BEBEBE;
-    font-family: "font_title_main";
-    font-size: 16px;
-    text-decoration: none;
+    display: none;
   }
 
   #main_page {
-    background-color: blue;
     width: 100%;
   }
  .movile_service_title {
    width: 90%;
    height: 40px;
    text-align: center;
-   margin: 60px auto;
-   background-color: grey;
+   margin: 90px auto;
  }
  .movile_service_title h1{
-   color: #fff;
+   color: #000000;
    font-family: "font_title_main";
-   font-size: 25px;
+   font-size: 30px;
    text-decoration: none;
  }
   #container_jobs {
-    background-color: white;
     width: 98%;
-    height: 2000px;
+    height: auto;
   }
 
- #container_jobs .brandig, .layout, .publicity, .packaging, .modeling {
+ #container_jobs section {
    margin: 15px 15px 15px 15px;
    padding: 5px 5px;
    width: 90%;
    height: auto;
-   background-color: green;
  }
 #container_jobs section img, .brandig_text, .layout_text, .publicity_text, .packaging_text, .modeling_text {
   margin: 7px 5%;
@@ -379,7 +357,4 @@
 }
 
 
-.brandig_contents img, .layout_contents img, .publicity_contents img, .modeling_contents img, .packaging_contents img{
-  width: 100px;
-}
 }
