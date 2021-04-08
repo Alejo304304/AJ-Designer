@@ -28,10 +28,8 @@
   }
   .icon_nav {
     float: right;
-    position: relative;
     width: 200px;
     height: 100px;
-    padding-right: 10px;
   }
 
   .icon_nav img {
@@ -40,7 +38,7 @@
     position: relative;
     float: right;
     top: 15px;
-    right: 20px;
+    right: 25px;
   }
 
 
