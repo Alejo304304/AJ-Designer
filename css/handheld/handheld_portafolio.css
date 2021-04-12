@@ -164,13 +164,6 @@
   transition-duration: 0.8s;
   border-radius: 10px;
 }
-.img_garabato:hover {
-  background: url('../../img/portafolio/garabato/portada_garabato_hover.png') no-repeat;
-  background-position: center;
-  background-size: 340px 340px;
-  transition-duration: 0.8s;
-  border-radius: 10px;
-}
     .img_garbato:hover {
       transition: background 1.0s;
     }
@@ -206,13 +199,6 @@
   width: 340px;
   height: 340px;
   background: url('../../img/portafolio/brutal/portada_brutal.png') no-repeat;
-  background-position: center;
-  background-size: 340px 340px;
-  transition-duration: 0.8s;
-  border-radius: 10px;
-}
-.img_brutal:hover {
-  background: url('../../img/portafolio/brutal/portada_brutal_hover.png') no-repeat;
   background-position: center;
   background-size: 340px 340px;
   transition-duration: 0.8s;
@@ -259,13 +245,7 @@
   transition-duration: 0.8s;
   border-radius: 10px;
 }
-.img_cohete:hover {
-  background: url('../../img/portafolio/cohete/portada_cohete_hover.png') no-repeat;
-  background-position: center;
-  background-size: 340px 340px;
-  transition-duration: 0.8s;
-  border-radius: 10px;
-}
+
     .img_cohete:hover {
       transition: background 1.0s;
     }
@@ -306,13 +286,7 @@
   transition-duration: 0.8s;
   border-radius: 10px;
 }
-.img_comic:hover {
-  background: url('../../img/portafolio/comic/portada_comic_hover.png') no-repeat;
-  background-position: center;
-  background-size: 340px 340px;
-  transition-duration: 0.8s;
-  border-radius: 10px;
-}
+
     .img_comic:hover {
       transition: background 1.0s;
     }
@@ -353,13 +327,7 @@
   transition-duration: 0.8s;
   border-radius: 10px;
 }
-.img_filbo:hover {
-  background: url('../../img/portafolio/filbo/portada_filbo_hover.png') no-repeat;
-  background-position: center;
-  background-size: 340px 340px;
-  transition-duration: 0.8s;
-  border-radius: 10px;
-}
+
     .img_filbo:hover {
       transition: background 1.0s;
     }
@@ -395,13 +363,6 @@
   width: 340px;
   height: 340px;
   background: url('../../img/portafolio/lata_trex/portada_lata_trex.png') no-repeat;
-  background-position: center;
-  background-size: 340px 340px;
-  transition-duration: 0.8s;
-  border-radius: 10px;
-}
-.img_lata_trex:hover {
-  background: url('../../img/portafolio/lata_trex/portada_lata_trex_hover.png') no-repeat;
   background-position: center;
   background-size: 340px 340px;
   transition-duration: 0.8s;
@@ -447,13 +408,6 @@
   transition-duration: 0.8s;
   border-radius: 10px;
 }
-.img_tierra_nueva:hover {
-  background: url('../../img/portafolio/tierra_nueva/portada_tierra_nueva_hover.png') no-repeat;
-  background-position: center;
-  background-size: 340px 340px;
-  transition-duration: 0.8s;
-  border-radius: 10px;
-}
     .img_tierra_nueva:hover {
       transition: background 1.0s;
     }
@@ -494,13 +448,6 @@
   transition-duration: 0.8s;
   border-radius: 10px;
 }
-.img_mano_rot:hover {
-  background: url('../../img/portafolio/mano_rot/portada_mano_rot_hover.png') no-repeat;
-  background-position: center;
-  background-size: 340px 340px;
-  transition-duration: 0.8s;
-  border-radius: 10px;
-}
     .img_mano_rot:hover {
       transition: background 1.0s;
     }
@@ -536,13 +483,6 @@
   width: 340px;
   height: 340px;
   background: url('../../img/portafolio/wild/portada_wild.png') no-repeat;
-  background-position: center;
-  background-size: 340px 340px;
-  transition-duration: 0.8s;
-  border-radius: 10px;
-}
-.img_wild:hover {
-  background: url('../../img/portafolio/wild/portada_wild_hover.png') no-repeat;
   background-position: center;
   background-size: 340px 340px;
   transition-duration: 0.8s;
