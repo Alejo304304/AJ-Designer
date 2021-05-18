@@ -16,12 +16,7 @@
 @media (min-width: 1024px) and (max-width: 1400px) {
 * {
   margin: auto;
-  padding: 0;
-  image-rendering:-moz-crisp-edges;
-  image-rendering:-o-crisp-edges;
-  image-rendering:-webkit-optimize-contrast;
-  image-rendering:optimize-contrast;
-  -ms-interpolation-mode:nearest-neighbor;
+  padding: 0;  
   transition-duration: 0.5s;
   transition: 0.5s;
 }
