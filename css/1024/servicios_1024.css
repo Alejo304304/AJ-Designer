@@ -116,7 +116,7 @@ body {
     background-color: #1B0126;
   }
   .caja_servicios {
-    width: 80%;
+    width: 75%;
     height: 300px;
   }
     .titulo_caja_servicios {
@@ -146,7 +146,7 @@ body {
           color: #fff;
         }
       .lista_caja {
-        width: 35%;
+        width: 20%;
         height: auto;
         float: right;
         margin-right: 5%;
@@ -158,9 +158,8 @@ body {
           line-height: 1.5rem;
           color: #F23041;
         }
-
-
 /*----------------------*/
+
 /*----------FOOTER---------*/
 
 #footer {
