@@ -21,8 +21,9 @@ body {
   background: #090921;
 }
 body:after{
-  display:none; content: url('../../img/portafolio/garabato.png'); 
+  display:none; content: url('../../img/portafolio/garabato.png');
 }
+
 /*---BARRA DE NAVEGACION--*/
 #barra_navegacion {
   width: 100%;
@@ -128,7 +129,7 @@ body:after{
       height: 240px;
       background-color: #1B0126;
       background-position: center;
-      background-size: 100% 100%;
+      background-size: 110% 110%;
       transition: 0.7s;
 
     }
